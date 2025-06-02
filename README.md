@@ -1,4 +1,5 @@
-banner.jpg
+![Banner](banner.jpg)
+
 # 👋 Hi, I'm Oren!
 
 ### 💻 Junior QA & Data Enthusiast  
