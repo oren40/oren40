@@ -1,4 +1,4 @@
-![Banner](github.jpg)
+![Banner](github1.jpg)
 
 # 👋 Hi, I'm Oren!
 
