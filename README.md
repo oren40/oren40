@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Oren!
 
-### 💻 Junior QA & Data Enthusiast  
+### 💻 QA & Data Enthusiast  
 🔍 Learning QA, Python & AI  
 🧪 Practicing test automation with Selenium  
 🎓 Studying via Coursera, Google Cloud, Udemy & LinkedIn Learning  
